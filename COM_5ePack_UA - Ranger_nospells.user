@@ -254,7 +254,7 @@
     <tag group="SpecSource" tag="cHelpSRg"/>
     <tag group="abCategory" tag="c5CSRgCCM1"/>
     </thing>
-  <thing id="c5CSRgCM05" name="Feinting Attack" description="You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet o f you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack’s damage roll." compset="CustomSpec" uniqueness="unique">
+  <thing id="c5CSRgCM05" name="Feinting Attack" description="You can expend one superiority die and use a bonus action on your turn to feint, choosing one creature within 5 feet of you as your target. You have advantage on your next attack roll against that creature. If that attack hits, add the superiority die to the attack’s damage roll." compset="CustomSpec" uniqueness="unique">
     <fieldval field="abDuration" value="1"/>
     <fieldval field="abRange" value="5"/>
     <tag group="abDuration" tag="Attack" name="Attack" abbrev="att"/>
@@ -284,7 +284,7 @@
     <tag group="SpecSource" tag="cHelpSRg"/>
     <tag group="abCategory" tag="c5CSRgCCM1"/>
     </thing>
-  <thing id="c5CSRgCM08" name="Maneuvering Attack" description="When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one o f your comrades into a more advantageous position. You add the superiority die to the attack’s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target o f your attack." compset="CustomSpec" uniqueness="unique">
+  <thing id="c5CSRgCM08" name="Maneuvering Attack" description="When you hit a creature with a weapon attack, you can expend one superiority die to maneuver one of your comrades into a more advantageous position. You add the superiority die to the attack’s damage roll, and you choose a friendly creature who can see or hear you. That creature can use its reaction to move up to half its speed without provoking opportunity attacks from the target of your attack." compset="CustomSpec" uniqueness="unique">
     <tag group="Helper" tag="Quintenary"/>
     <tag group="abAction" tag="Free" name="Free" abbrev="Free"/>
     <tag group="abDuration" tag="Instant" name="Instantaneous" abbrev="inst"/>
@@ -311,7 +311,7 @@
     <tag group="SpecSource" tag="cHelpSRg"/>
     <tag group="abCategory" tag="c5CSRgCCM1"/>
     </thing>
-  <thing id="c5CSRgCM11" name="Precision Attack" description="When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects o f the attack are applied." compset="CustomSpec" uniqueness="unique">
+  <thing id="c5CSRgCM11" name="Precision Attack" description="When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied." compset="CustomSpec" uniqueness="unique">
     <fieldval field="abDuration" value="1"/>
     <tag group="abAction" tag="Free" name="Free" abbrev="Free"/>
     <tag group="abDuration" tag="Attack" name="Attack" abbrev="att"/>
@@ -346,7 +346,7 @@
     <tag group="SpecSource" tag="cHelpSRg"/>
     <tag group="abCategory" tag="c5CSRgCCM1"/>
     </thing>
-  <thing id="c5CSRgCM15" name="Sweeping Attack" description="When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is o f the same type dealt by the original attack." compset="CustomSpec" uniqueness="unique">
+  <thing id="c5CSRgCM15" name="Sweeping Attack" description="When you hit a creature with a melee weapon attack, you can expend one superiority die to attempt to damage another creature with the same attack. Choose another creature within 5 feet of the original target and within your reach. If the original attack roll would hit the second creature, it takes damage equal to the number you roll on your superiority die. The damage is of the same type dealt by the original attack." compset="CustomSpec" uniqueness="unique">
     <tag group="Helper" tag="Quintenary"/>
     <tag group="abAction" tag="Free" name="Free" abbrev="Free"/>
     <tag group="abDuration" tag="Instant" name="Instantaneous" abbrev="inst"/>
